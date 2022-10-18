@@ -1,2 +1,0 @@
-#!/bin/bash
-gcc -S -o 2-assembler.s 2-main.c
